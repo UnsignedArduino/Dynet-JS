@@ -1,5 +1,9 @@
+const width = 1280;
+const height = 720;
+
+
 function setup() {
-  createCanvas(1280, 720);
+  createCanvas(width, height);
 }
 
 function draw() {
